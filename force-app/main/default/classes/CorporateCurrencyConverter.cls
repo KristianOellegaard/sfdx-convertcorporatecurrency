@@ -1,3 +1,4 @@
+// FROM https://salesforce.stackexchange.com/questions/57615/currency-conversion-with-current-exchange-rates
 public with sharing class CorporateCurrencyConverter {
     public CorporateCurrencyConverter() {
 
