@@ -1,6 +1,7 @@
 {
     "orgName": "kristian Company",
     "edition": "Developer",
+    "features": "MultiCurrency",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
